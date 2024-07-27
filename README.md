@@ -1,6 +1,7 @@
 # Enterprise AIOps
 
 ## Overview
+![Enterprise AIOps Overview](./overview.png)
 
 Enterprise AIOps transforms traditional cloud operations from rule-driven manual processes to AI-driven automated operations. The goal of Enterprise AIOps is to improve the efficiency, performance, and reliability of cloud systems by automating routine tasks, predicting and preventing potential issues, and providing insights for proactive decision-making.
 
